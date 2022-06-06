@@ -945,3 +945,76 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.06.06-02.01.07:196][967]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.06-02.01.07:196][967]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.06.06-02.01.07:196][967]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.06.06-02.19.22:455][202]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.06-02.19.22:465][202]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.06-02.19.22:475][202]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.06-02.19.33:310][481]LogContentBrowser: Attempting asset rename: NewBlueprint -> Hover_BP
+[2022.06.06-02.19.33:314][481]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.06-02.19.35:026][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hover_BP.Hover_BP
+[2022.06.06-02.19.35:620][672]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:1).
+[2022.06.06-02.19.58:640][754]BlueprintLog: New page: Compile Hover_BP
+[2022.06.06-02.19.58:672][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.06.06-02.19.59:380][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hover_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Hover_BP.uasset" SILENT=true
+[2022.06.06-02.19.59:387][809]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Hover_BP1EBF97E641ECA3FE0BA97890F315FA0C.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Hover_BP.uasset'
+[2022.06.06-02.19.59:403][809]AssetCheck: New page: Asset Save: Hover_BP
+[2022.06.06-02.19.59:403][809]LogContentValidation: Display: Validating Blueprint /Game/Hover_BP.Hover_BP
+[2022.06.06-02.20.37:588][385]BlueprintLog: New page: Compile Hover_BP
+[2022.06.06-02.20.37:621][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.06-02.20.38:278][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hover_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Hover_BP.uasset" SILENT=true
+[2022.06.06-02.20.38:286][438]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Hover_BP1C201EBE49B0938AF40C1D9D71FB1EEE.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Hover_BP.uasset'
+[2022.06.06-02.20.38:302][438]AssetCheck: New page: Asset Save: Hover_BP
+[2022.06.06-02.20.38:302][438]LogContentValidation: Display: Validating Blueprint /Game/Hover_BP.Hover_BP
+[2022.06.06-02.20.41:392][711]LogSlate: Window 'Hover_BP' being destroyed
+[2022.06.06-02.20.41:399][711]LogSlate: Window 'Hover_BP' being destroyed
+[2022.06.06-02.20.41:402][711]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-02.20.41:402][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-02.20.41:422][711]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-02.20.41:423][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-02.20.41:469][711]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.06-02.20.41:469][711]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-02.20.41:469][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-02.20.49:621][132]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.06-02.20.49:629][132]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.06-02.20.49:640][132]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.06-02.20.56:165][898]LogContentBrowser: Attempting asset rename: NewBlueprint -> Spawner_BP
+[2022.06.06-02.20.56:171][898]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.06-02.20.57:297][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.22.38:507][ 65]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.06-02.24.28:453][ 42]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.24.28:489][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.06.06-02.24.28:999][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.24.29:007][ 92]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BPCE2D8B024C15DA3FD46EE897B8CA7D84.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.24.29:025][ 92]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.24.29:025][ 92]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.27.02:681][882]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.27.02:713][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.06.06-02.27.10:218][639]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.27.10:248][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.06-02.27.11:006][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.27.11:016][713]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BPE8AF799C47E99E3DB4C8ECA18F6843D4.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.27.11:032][713]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.27.11:032][713]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.28.58:178][127]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.28.58:210][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.06-02.28.58:824][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.28.58:838][185]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BPD4E586C34C75EA550A42F7BA282FD643.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.28.58:855][185]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.28.58:855][185]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.30.13:672][829]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.30.13:703][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.06.06-02.30.14:260][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.30.14:274][877]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BP836F36AA441C2B8A792F9AA98199B54E.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.30.14:292][877]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.30.14:292][877]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.33.04:162][813]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.33.04:201][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.06.06-02.33.05:028][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.33.05:046][888]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BPD6C2EBAE4F501C8383D0B0B2C72339CC.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.33.05:061][888]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.33.05:061][888]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.34.40:453][242]BlueprintLog: New page: Compile Spawner_BP
+[2022.06.06-02.34.40:486][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.06-02.34.41:115][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner_BP" FILE="C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset" SILENT=true
+[2022.06.06-02.34.41:129][300]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BP49DA3C0E4D964AA6B25CCEB411FACEA4.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
+[2022.06.06-02.34.41:145][300]AssetCheck: New page: Asset Save: Spawner_BP
+[2022.06.06-02.34.41:145][300]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
