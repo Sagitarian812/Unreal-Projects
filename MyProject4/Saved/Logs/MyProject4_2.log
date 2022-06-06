@@ -1018,3 +1018,9 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.06.06-02.34.41:129][300]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/Spawner_BP49DA3C0E4D964AA6B25CCEB411FACEA4.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/Spawner_BP.uasset'
 [2022.06.06-02.34.41:145][300]AssetCheck: New page: Asset Save: Spawner_BP
 [2022.06.06-02.34.41:145][300]LogContentValidation: Display: Validating Blueprint /Game/Spawner_BP.Spawner_BP
+[2022.06.06-02.41.16:221][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.06.06-02.41.16:336][102]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/FirstPersonExampleMap5974ED544FA1A0A0759D1AA8882E5DED.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.06.06-02.41.16:973][102]LogSavePackage: Moving 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Saved/FirstPersonExampleMap_BuiltData1CD448A043ED7FEBBCA7DCA385B055E6.tmp' to 'C:/Users/sagit/Desktop/Unreal-Projects/MyProject4/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.06.06-02.41.16:990][102]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-02.41.16:990][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.06.06-02.41.16:990][102]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
